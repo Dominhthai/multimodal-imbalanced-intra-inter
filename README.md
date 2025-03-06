@@ -2,7 +2,7 @@
 
 This project aims to solve the imbalanced problem of learning among modalities that improve efficiency in sentimental dataset. 
 * My method is an improvement version of OGM_GE method: https://github.com/GeWu-Lab/OGM-GE_CVPR2022
-* My optimiation solution is inspired by idea from paper: 
+* My optimization solution is inspired by idea from paper: 
 https://mn.cs.tsinghua.edu.cn/xinwang/PDF/papers/2023_Intra-%20and%20Inter-Modal%20Curriculum%20for%20Multimodal%20Learning.pdf
 
 * My thought is that to solve the imbalanced learning between different data input types(Unimodal) when combining together (Multimodal), we shall optimize both **Intra-**(within each modal) and **Inter-** steps(concatenating modalities) .
