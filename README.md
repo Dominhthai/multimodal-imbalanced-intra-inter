@@ -1,4 +1,5 @@
-# This project solves the imbalanced problem of learning among modalities in 2 steps: Intra- and Inter- Learning.
+# A method for Balanced Multimodal Learning 
+This project solves the imbalanced problem of learning among modalities in 2 steps: Intra- and Inter- Learning.
 
 ## Intra-: Implemented at Feed-forward stage and inside each single modality. 
 * At feed-forward stage, we drop features of strong modalities probabilistically.
