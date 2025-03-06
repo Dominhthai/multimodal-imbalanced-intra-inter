@@ -14,4 +14,4 @@ https://mn.cs.tsinghua.edu.cn/xinwang/PDF/papers/2023_Intra-%20and%20Inter-Modal
 ## Inter-: Implemented at Fusion-Module of modalities.
 We first estimate the similarity between unimodal gradient directions and that of multi- fusion. That way, we can update modalities weights at fusion in a way that prioritizes towards the gradient direction of weaker unimodals.
 
-### My method is trained + tested on 2 dataset: CREMA_D and CMU_MOSI.
+### My method is trained + tested on 2 dataset: CREMA_D(audio-visual) and CMU_MOSI(audio-visual-text).
