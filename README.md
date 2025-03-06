@@ -11,4 +11,4 @@ My thought is that to solve the imbalanced learning between different data input
 ## Inter-: Implemented at Fusion-Module of modalities.
 We first estimate the similarity between unimodal gradient directions and that of multi- fusion. That way, we can update modalities weights at fusion in a way that prioritizes towards the gradient direction of weaker unimodals.
 
-My method is trained + tested on 2 dataset: CREMA_D and CMU_MOSI.
+### My method is trained + tested on 2 dataset: CREMA_D and CMU_MOSI.
